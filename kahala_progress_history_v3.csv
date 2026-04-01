@@ -15,7 +15,7 @@ date,group,title,id,percent,target_date
 2026-04-01,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,0,
 2026-04-01,Reporting,Automated Reports,marketing-automated-reports,0,
 2026-04-01,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,0,
-2026-04-01,Data Integration,Raw Sales (automated POS Sales),raw-sales,0,
+2026-04-01,Data Integration,Raw Sales (automated POS Sales),raw-sales,10,
 2026-04-01,Data Integration,Data Delivers (Focus extract),data-delivers-focus,0,
 2026-04-01,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,0,
 2026-04-01,Data Integration,Marketing Yext Extract,yext-extract,0,
