@@ -19,7 +19,7 @@ date,group,title,id,percent,target_date
 2026-04-01,Data Integration,Data Delivers (Focus extract),data-delivers-focus,0,
 2026-04-01,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,0,
 2026-04-01,Data Integration,Marketing Yext Extract,yext-extract,0,
-2026-04-01,CRM Processes,Store Notifications,store-notifications,0,
+2026-04-01,CRM Processes,Store Notifications,store-notifications,20,
 2026-04-01,CRM Processes,Call Logs,call-logs,0,
 2026-04-01,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,
 2026-04-01,CRM Processes,Training Status Updates,training-status-updates,0,
