@@ -94,7 +94,7 @@ date,group,title,id,percent,target_date,phase
 2026-04-22,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,20,,2
 2026-04-22,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,0,,1
 2026-04-22,User Interfaces,POS website POSHelpNOW.com,pos-website,40,,3
-2026-04-22,Custom Apps,Manual Sales,manual-sales,30,,5
+2026-04-22,Custom Apps,Manual Sales,manual-sales,30,,4
 2026-04-22,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,15,,2
 2026-04-22,Custom Apps,Marketing Portal,marketing-portal,5,,2
 2026-04-22,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,10,,2
