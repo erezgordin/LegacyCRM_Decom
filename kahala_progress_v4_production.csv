@@ -1,11 +1,3 @@
-# Phase Legend:,,,,,,
-# 1 = Discovery,,,,,,
-# 2 = Design,,,,,,
-# 3 = Build,,,,,,
-# 4 = Test,,,,,,
-# 5 = Implementation,,,,,,
-# 6 = Complete,,,,,,
-,,,,,,
 date,group,title,id,percent,target_date,phase
 2026-04-01,User Interfaces,Franchisee Portal,franchisee-portal,50,,
 2026-04-01,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,5,,
