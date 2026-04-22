@@ -1,5 +1,5 @@
 date,group,title,id,percent,target_date,phase
-2026-04-01,User Interfaces,Franchisee Portal,franchisee-portal,0,,
+2026-04-01,User Interfaces,Franchisee Portal,franchisee-portal,10,,5
 2026-04-01,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,0,,
 2026-04-01,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,0,,
 2026-04-01,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,0,,
