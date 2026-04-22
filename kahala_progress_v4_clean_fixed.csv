@@ -1,4 +1,4 @@
-date,group,title,id,percent,target_date,phase
+﻿date,group,title,id,percent,target_date,phase
 04/01/2026,User Interfaces,Franchisee Portal,franchisee-portal,50,,
 04/01/2026,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,5,,
 04/01/2026,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,5,,
