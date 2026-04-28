@@ -1,0 +1,121 @@
+date,group,title,id,percent,target_date,phase
+2026-04-01,User Interfaces,Franchisee Portal,franchisee-portal,50,,
+2026-04-01,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,5,,
+2026-04-01,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,5,,
+2026-04-01,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,0,,
+2026-04-01,User Interfaces,POS website POSHelpNOW.com,pos-website,10,,
+2026-04-01,Custom Apps,Manual Sales,manual-sales,10,,
+2026-04-01,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,10,,
+2026-04-01,Custom Apps,Marketing Portal,marketing-portal,5,,
+2026-04-01,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,5,,
+2026-04-01,Custom Apps,Store Locator,store-locator,0,,
+2026-04-01,Reporting,Franchisee Reporting,franchisee-reporting,0,,
+2026-04-01,Reporting,Internal Reporting,internal-reporting,0,,
+2026-04-01,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,0,,
+2026-04-01,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,0,,
+2026-04-01,Reporting,Automated Reports,marketing-automated-reports,0,,
+2026-04-01,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,5,,
+2026-04-01,Data Integration,Raw Sales (automated POS Sales),raw-sales,10,,
+2026-04-01,Data Integration,Data Delivers (Focus extract),data-delivers-focus,5,,
+2026-04-01,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,5,,
+2026-04-01,Data Integration,Marketing Yext Extract,yext-extract,0,,
+2026-04-01,CRM Processes,Store Notifications,store-notifications,20,,
+2026-04-01,CRM Processes,Call Logs,call-logs,25,,
+2026-04-01,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,,
+2026-04-01,CRM Processes,Training Status Updates,training-status-updates,0,,
+2026-04-01,CRM Processes,Distribution Center Updates,distribution-center-updates,0,,
+2026-04-01,CRM Processes,Coop Updates,coop-updates,0,,
+2026-04-01,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,
+2026-04-01,CRM Processes,FDD processes,fdd-processes,0,,
+2026-04-01,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,0,,
+2026-04-01,CRM Processes,POS Fees tracking,pos-fees-tracking,0,,
+2026-04-08,User Interfaces,Franchisee Portal,franchisee-portal,50,,
+2026-04-08,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,5,,
+2026-04-08,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,15,,
+2026-04-08,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,0,,
+2026-04-08,User Interfaces,POS website POSHelpNOW.com,pos-website,10,,
+2026-04-08,Custom Apps,Manual Sales,manual-sales,10,,
+2026-04-08,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,10,,
+2026-04-08,Custom Apps,Marketing Portal,marketing-portal,5,,
+2026-04-08,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,5,,
+2026-04-08,Custom Apps,Store Locator,store-locator,5,,
+2026-04-08,Reporting,Franchisee Reporting,franchisee-reporting,5,,
+2026-04-08,Reporting,Internal Reporting,internal-reporting,5,,
+2026-04-08,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,5,,
+2026-04-08,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,5,,
+2026-04-08,Reporting,Automated Reports,marketing-automated-reports,10,,
+2026-04-08,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,5,,
+2026-04-08,Data Integration,Raw Sales (automated POS Sales),raw-sales,20,,
+2026-04-08,Data Integration,Data Delivers (Focus extract),data-delivers-focus,10,,
+2026-04-08,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,25,,
+2026-04-08,Data Integration,Marketing Yext Extract,yext-extract,0,,
+2026-04-08,CRM Processes,Store Notifications,store-notifications,20,,
+2026-04-08,CRM Processes,Call Logs,call-logs,25,,
+2026-04-08,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,,
+2026-04-08,CRM Processes,Training Status Updates,training-status-updates,5,,
+2026-04-08,CRM Processes,Distribution Center Updates,distribution-center-updates,5,,
+2026-04-08,CRM Processes,Coop Updates,coop-updates,5,,
+2026-04-08,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,
+2026-04-08,CRM Processes,FDD processes,fdd-processes,0,,
+2026-04-08,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,10,,
+2026-04-08,CRM Processes,POS Fees tracking,pos-fees-tracking,0,,
+2026-04-15,User Interfaces,Franchisee Portal,franchisee-portal,50,,
+2026-04-15,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,10,,
+2026-04-15,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,20,,
+2026-04-15,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,0,,
+2026-04-15,User Interfaces,POS website POSHelpNOW.com,pos-website,40,,
+2026-04-15,Custom Apps,Manual Sales,manual-sales,30,,
+2026-04-15,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,10,,
+2026-04-15,Custom Apps,Marketing Portal,marketing-portal,5,,
+2026-04-15,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,5,,
+2026-04-15,Custom Apps,Store Locator,store-locator,5,,
+2026-04-15,Reporting,Franchisee Reporting,franchisee-reporting,5,,
+2026-04-15,Reporting,Internal Reporting,internal-reporting,5,,
+2026-04-15,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,5,,
+2026-04-15,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,5,,
+2026-04-15,Reporting,Automated Reports,marketing-automated-reports,25,,
+2026-04-15,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,20,,
+2026-04-15,Data Integration,Raw Sales (automated POS Sales),raw-sales,25,,
+2026-04-15,Data Integration,Data Delivers (Focus extract),data-delivers-focus,10,,
+2026-04-15,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,25,,
+2026-04-15,Data Integration,Marketing Yext Extract,yext-extract,0,,
+2026-04-15,CRM Processes,Store Notifications,store-notifications,25,,
+2026-04-15,CRM Processes,Call Logs,call-logs,25,,
+2026-04-15,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,,
+2026-04-15,CRM Processes,Training Status Updates,training-status-updates,5,,
+2026-04-15,CRM Processes,Distribution Center Updates,distribution-center-updates,5,,
+2026-04-15,CRM Processes,Coop Updates,coop-updates,5,,
+2026-04-15,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,
+2026-04-15,CRM Processes,FDD processes,fdd-processes,0,,
+2026-04-15,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,,
+2026-04-15,CRM Processes,POS Fees tracking,pos-fees-tracking,10,,
+2026-04-22,User Interfaces,Franchisee Portal,franchisee-portal,50,,3
+2026-04-22,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,10,,2
+2026-04-22,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,20,,2
+2026-04-22,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,0,,1
+2026-04-22,User Interfaces,POS website POSHelpNOW.com,pos-website,40,,3
+2026-04-22,Custom Apps,Manual Sales,manual-sales,30,,4
+2026-04-22,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,15,,2
+2026-04-22,Custom Apps,Marketing Portal,marketing-portal,5,,2
+2026-04-22,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,10,,2
+2026-04-22,Custom Apps,Store Locator,store-locator,10,,2
+2026-04-22,Reporting,Franchisee Reporting,franchisee-reporting,10,,3
+2026-04-22,Reporting,Internal Reporting,internal-reporting,10,,3
+2026-04-22,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,5,,1
+2026-04-22,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,5,,1
+2026-04-22,Reporting,Automated Reports,marketing-automated-reports,25,,3
+2026-04-22,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,50,,1
+2026-04-22,Data Integration,Raw Sales (automated POS Sales),raw-sales,35,,3
+2026-04-22,Data Integration,Data Delivers (Focus extract),data-delivers-focus,10,,2
+2026-04-22,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,25,,2
+2026-04-22,Data Integration,Marketing Yext Extract,yext-extract,10,,2
+2026-04-22,CRM Processes,Store Notifications,store-notifications,30,,3
+2026-04-22,CRM Processes,Call Logs,call-logs,30,,1
+2026-04-22,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,,1
+2026-04-22,CRM Processes,Training Status Updates,training-status-updates,5,,1
+2026-04-22,CRM Processes,Distribution Center Updates,distribution-center-updates,5,,1
+2026-04-22,CRM Processes,Coop Updates,coop-updates,5,,1
+2026-04-22,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,1
+2026-04-22,CRM Processes,FDD processes,fdd-processes,0,,1
+2026-04-22,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,,3
+2026-04-22,CRM Processes,POS Fees tracking,pos-fees-tracking,10,,1
