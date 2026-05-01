@@ -312,7 +312,7 @@ function moveTooltip(evt){ const tip = document.getElementById('tooltip'); tip.s
 function hideTooltip(){ document.getElementById('tooltip').style.display = 'none'; }
 async function tryLoadHostedCsv(){
   try {
-    const res = await fetch('dynamics_v3_revert_phases_fixed.csv?cacheBust=' + Date.now(), {cache:'no-store'});
+    const res = await fetch('dynamics_data.csv?cacheBust=' + Date.now(), {cache:'no-store'});
     if (!res.ok) throw new Error('No CSV found');
     const imported = normalizeHistory(parseCsv(await res.text()));
     if (imported.length) historyRows = imported;
@@ -324,7 +324,7 @@ function wireActions(){
   document.getElementById('nextDate').addEventListener('click', () => animateToIndex(selectedIndex + 1));
   document.getElementById('currentDate').addEventListener('click', () => animateToIndex(timeline.length - 1));
   document.getElementById('playToggle').addEventListener('click', playTimeline);
-  document.getElementById('exportCsv').addEventListener('click', () => download('dynamics_v3_revert_phases_fixeddynamics_data.csv', serializeCsv(), 'text/csv;charset=utf-8'));
+  document.getElementById('exportCsv').addEventListener('click', () => download('dynamics_data.csv', serializeCsv(), 'text/csv;charset=utf-8'));
   document.getElementById('importCsv').addEventListener('change', async e => {
     const file = e.target.files[0]; if (!file) return;
     const imported = normalizeHistory(parseCsv(await file.text()));
