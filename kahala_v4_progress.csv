@@ -172,7 +172,7 @@ date,group,title,id,percent,target_date,phase
 2026-05-06,CRM Processes,Store Notifications,store-notifications,30,,3
 2026-05-06,CRM Processes,Call Logs,call-logs,30,,1
 2026-05-06,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,,1
-2026-05-06,CRM Processes,Training Status Updates,training-status-updates,20,,2
+2026-05-06,CRM Processes,Training Status Updates,training-status-updates,100,,6
 2026-05-06,CRM Processes,Distribution Center Updates,distribution-center-updates,5,,1
 2026-05-06,CRM Processes,Coop Updates,coop-updates,40,,3
 2026-05-06,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,1
