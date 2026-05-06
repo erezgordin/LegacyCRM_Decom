@@ -7,4 +7,4 @@ date,group,title,id,percent,target_date,phase
 2026-05-06,Data Integration,Innovation team integration,innovation-team-integration,10,,1
 2026-05-06,Data Integration,Attachments,attachments,10,,1
 2026-05-06,CRM Processes,FDD processes,fdd-processes,75,2026-05-31,4
-2026-05-06,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,40,,2
+2026-05-06,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,40,2026-06-30,2
