@@ -1,4 +1,4 @@
 date,group,title,id,percent,target_date,phase
 2026-05-06,Custom Apps,Manual Sales Reporting,manual-sales-reporting,70,,4
 2026-05-06,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,,2
-2026-05-06,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,40,,3
+2026-05-06,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,40,2026-06-30,3
