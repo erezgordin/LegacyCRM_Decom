@@ -172,10 +172,10 @@ date,group,title,id,percent,target_date,phase
 2026-05-06,CRM Processes,Store Notifications,store-notifications,30,,3
 2026-05-06,CRM Processes,Call Logs,call-logs,30,,1
 2026-05-06,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,0,,1
-2026-05-06,CRM Processes,Training Status Updates,training-status-updates,100,,6
+2026-05-06,CRM Processes,Training Status Updates,training-status-updates,100,2026-05-06,6
 2026-05-06,CRM Processes,Distribution Center Updates,distribution-center-updates,5,,1
-2026-05-06,CRM Processes,Coop Updates,coop-updates,40,,3
+2026-05-06,CRM Processes,Coop Updates,coop-updates,40,2026-06-30,3
 2026-05-06,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,1
 2026-05-06,CRM Processes,FDD processes,fdd-processes,80,,5
-2026-05-06,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,,3
-2026-05-06,CRM Processes,POS Fees tracking,pos-fees-tracking,40,,3
+2026-05-06,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,2026-06-30,3
+2026-05-06,CRM Processes,POS Fees tracking,pos-fees-tracking,40,2026-06-30,3
