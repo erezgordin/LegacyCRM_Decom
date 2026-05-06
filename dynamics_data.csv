@@ -1,37 +1,10 @@
 date,group,title,id,percent,target_date,phase
-2026-04-01,Reporting,Sales Reporting,sales-reporting,0,,
-2026-04-01,Reporting,Leadership Reporting,leadership-reporting,0,,
-2026-04-01,Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,0,,
-2026-04-01,Data Integration,Direct data connections,direct-data-connections,0,,
-2026-04-01,Data Integration,Finance integration,finance-integration,0,,
-2026-04-01,Data Integration,Innovation team integration,innovation-team-integration,0,,
-2026-04-01,Data Integration,Attachments,attachments,0,,
-2026-04-01,CRM Processes,FDD processes,fdd-processes,0,,
-2026-04-01,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,0,,
-2026-04-08,Reporting,Sales Reporting,sales-reporting,0,,
-2026-04-08,Reporting,Leadership Reporting,leadership-reporting,0,,
-2026-04-08,Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,0,,
-2026-04-08,Data Integration,Direct data connections,direct-data-connections,0,,
-2026-04-08,Data Integration,Finance integration,finance-integration,0,,
-2026-04-08,Data Integration,Innovation team integration,innovation-team-integration,0,,
-2026-04-08,Data Integration,Attachments,attachments,0,,
-2026-04-08,CRM Processes,FDD processes,fdd-processes,0,,
-2026-04-08,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,0,,
-2026-04-15,Reporting,Sales Reporting,sales-reporting,0,,
-2026-04-15,Reporting,Leadership Reporting,leadership-reporting,0,,
-2026-04-15,Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,0,,
-2026-04-15,Data Integration,Direct data connections,direct-data-connections,0,,
-2026-04-15,Data Integration,Finance integration,finance-integration,0,,
-2026-04-15,Data Integration,Innovation team integration,innovation-team-integration,0,,
-2026-04-15,Data Integration,Attachments,attachments,0,,
-2026-04-15,CRM Processes,FDD processes,fdd-processes,0,,
-2026-04-15,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,0,,
-2026-04-22,Reporting,Sales Reporting,sales-reporting,0,,
-2026-04-22,Reporting,Leadership Reporting,leadership-reporting,0,,
-2026-04-22,Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,0,,
-2026-04-22,Data Integration,Direct data connections,direct-data-connections,0,,
-2026-04-22,Data Integration,Finance integration,finance-integration,0,,
-2026-04-22,Data Integration,Innovation team integration,innovation-team-integration,0,,
-2026-04-22,Data Integration,Attachments,attachments,0,,
-2026-04-22,CRM Processes,FDD processes,fdd-processes,0,,
-2026-04-22,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,0,,
+2026-05-06,Reporting,Sales Reporting,sales-reporting,10,,1
+2026-05-06,Reporting,Leadership Reporting,leadership-reporting,10,,1
+2026-05-06,Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,10,,1
+2026-05-06,Data Integration,Direct data connections,direct-data-connections,10,,1
+2026-05-06,Data Integration,Finance integration,finance-integration,10,,1
+2026-05-06,Data Integration,Innovation team integration,innovation-team-integration,10,,1
+2026-05-06,Data Integration,Attachments,attachments,10,,1
+2026-05-06,CRM Processes,FDD processes,fdd-processes,90,,4
+2026-05-06,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,40,,2
