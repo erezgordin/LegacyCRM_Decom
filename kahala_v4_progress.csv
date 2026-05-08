@@ -179,5 +179,3 @@ date,group,title,id,percent,target_date,phase
 2026-05-06,CRM Processes,FDD processes,fdd-processes,80,2026-05-31,5
 2026-05-06,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,2026-06-30,3
 2026-05-06,CRM Processes,POS Fees tracking,pos-fees-tracking,40,2026-06-30,3
-2026-05-07,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,100,2026-05-07,6
-2026-05-07,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,30,,2
