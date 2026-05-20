@@ -224,7 +224,7 @@ date,group,title,id,percent,target_date,phase
 2026-05-20,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,5,,1
 2026-05-20,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,50,,3
 2026-05-20,Reporting,Automated Reports,marketing-automated-reports,25,,3
-2026-05-20,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,100,,6
+2026-05-20,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,95,,2
 2026-05-20,Data Integration,Raw Sales (automated POS Sales),raw-sales,60,,3
 2026-05-20,Data Integration,Data Delivers (Focus extract),data-delivers-focus,10,,2
 2026-05-20,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,30,,2
