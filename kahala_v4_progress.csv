@@ -236,6 +236,6 @@ date,group,title,id,percent,target_date,phase
 2026-05-20,CRM Processes,Distribution Center Updates,distribution-center-updates,40,,3
 2026-05-20,CRM Processes,Coop Updates,coop-updates,40,6/30/2026,3
 2026-05-20,CRM Processes,Franchisee review processes,franchisee-review-processes,0,,1
-2026-05-20,CRM Processes,FDD processes,fdd-processes,100,5/31/2026,6
+2026-05-20,CRM Processes,FDD processes,fdd-processes,80,5/31/2026,5
 2026-05-20,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,6/30/2026,3
 2026-05-20,CRM Processes,POS Fees tracking,pos-fees-tracking,40,6/30/2026,3
