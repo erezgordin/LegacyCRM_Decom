@@ -255,7 +255,7 @@ function renderBoard(values = currentValues){
   GROUP_ORDER.forEach(group => {
     const col = document.createElement('section'); col.className = 'column';
     const h = document.createElement('div'); h.className = 'column-header';
-    const name = document.createElement('span'); name.className = 'group-name'; name.textContent = group;
+    const name = document.createElement('span'); name.className = 'group-name'; name.textContent = (group === "Access & Reporting" ? "Access & Reporting" : group);
     const roll = document.createElement('span'); roll.className = 'rollup'; roll.textContent = 'Roll-up: ' + fmtPct(computeRollup(group, values));
     h.append(name, roll);
     const cards = document.createElement('div'); cards.className = 'cards';
