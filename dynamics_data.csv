@@ -44,3 +44,12 @@ date,group,title,id,percent,target_date,phase
 2026-06-03,Data Integration,Attachments,attachments,95,,5
 2026-06-03,CRM Processes,FDD processes,fdd-processes,95,6/12/2026,5
 2026-06-03,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,45,6/30/2026,3
+2026-06-10,Access & Reporting,Sales Reporting,sales-reporting,25,,2
+2026-06-10,Access & Reporting,Leadership Reporting,leadership-reporting,25,,2
+2026-06-10,Access & Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,25,,2
+2026-06-10,Data Integration,Direct data connections,direct-data-connections,70,,5
+2026-06-10,Data Integration,Finance integration,finance-integration,40,,3
+2026-06-10,Data Integration,Innovation team integration,innovation-team-integration,40,,3
+2026-06-10,Data Integration,Attachments,attachments,95,,5
+2026-06-10,CRM Processes,FDD processes,fdd-processes,95,6/19/2026,5
+2026-06-10,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,50,7/15/2026,3
