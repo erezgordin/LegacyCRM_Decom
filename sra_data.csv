@@ -29,3 +29,8 @@ date,group,title,id,percent,target_date,phase
 2026-06-10,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,,3
 2026-06-10,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,9/13/2026,2
 2026-06-10,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,8/31/2026,3
+2026-06-17,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,,5
+2026-06-17,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,50,,3
+2026-06-17,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,,3
+2026-06-17,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,9/13/2026,3
+2026-06-17,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,8/31/2026,3
