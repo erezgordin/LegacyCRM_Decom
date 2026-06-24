@@ -1,0 +1,136 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Legacy CRM Decommissioning Workstream Timeline</title><style>
+:root{--blue:#4e79a7;--blue-dark:#2f6fb2;--text:#1f2937;--muted:#6b7280;--grid:#eceff3;--group-bg:#f3f8ff;--group-line:#dbeafe;--axis:#374151;--label-width:430px;--week-width:54px;}
+*{box-sizing:border-box}
+body{margin:0;padding:18px 20px 28px;font-family:Arial,Helvetica,sans-serif;color:var(--text);background:#fff}
+.page{max-width:1800px;margin:0 auto}
+h1{text-align:center;margin:0 0 18px;font-size:18px;font-weight:500}
+.sub{text-align:center;margin:-8px 0 10px;font-size:13px;color:#374151}
+.gantt-wrap{overflow-x:auto;overflow-y:visible;border-top:1px solid var(--axis);padding-top:44px}
+.gantt{width:calc(var(--label-width) + (20 * var(--week-width)));min-width:100%}
+.header-row{display:grid;grid-template-columns:var(--label-width) repeat(20, var(--week-width));height:54px;position:sticky;top:0;z-index:5;background:#fff;overflow:visible}
+.header-corner{position:sticky;left:0;z-index:7;background:#fff;border-right:1px solid var(--axis)}
+.week-label{font-size:12px;font-weight:600;white-space:nowrap;padding:22px 4px 4px;text-align:center;transform:none;height:54px;border-right:1px solid var(--grid);background:#fff;color:#111827;overflow:visible}
+.group-row{display:grid;grid-template-columns:var(--label-width) calc(20 * var(--week-width));height:31px}
+.group-label{position:sticky;left:0;z-index:4;text-align:left;background:var(--group-bg);color:var(--blue-dark);font-weight:700;font-size:13px;padding:7px 8px;border-top:1px solid var(--group-line);border-bottom:1px solid var(--group-line);border-right:1px solid var(--axis)}
+.gantt-row{display:grid;grid-template-columns:var(--label-width) calc(20 * var(--week-width));height:24px}
+.task-label{position:sticky;left:0;z-index:3;background:#fff;text-align:right;font-size:13px;font-weight:400;line-height:1.1;padding:3px 8px 3px 4px;border-right:1px solid var(--axis)}
+.timeline-cell{position:relative;height:24px;background:repeating-linear-gradient(to right, transparent 0, transparent calc(var(--week-width) - 1px), var(--grid) calc(var(--week-width) - 1px), var(--grid) var(--week-width))}
+.bar{position:absolute;top:5px;height:14px;background:var(--blue);display:block;border-radius:0}
+.legend{margin-top:12px;color:var(--muted);font-size:12px}
+.swatch{display:inline-block;width:18px;height:10px;background:var(--blue);margin-right:6px}
+@media print{body{padding:8px}.gantt-wrap{overflow:visible}.header-row{position:static}.header-corner,.group-label,.task-label{position:static}}
+</style></head><body><div class="page"><h1>Legacy CRM Decommissioning Workstream Timeline</h1><div class="sub">Week Starting</div><div class="gantt-wrap"><div class="gantt"><div class="header-row"><div class="header-corner"></div><div class="week-label">Jun 15</div><div class="week-label">Jun 22</div><div class="week-label">Jun 29</div><div class="week-label">Jul 6</div><div class="week-label">Jul 13</div><div class="week-label">Jul 20</div><div class="week-label">Jul 27</div><div class="week-label">Aug 3</div><div class="week-label">Aug 10</div><div class="week-label">Aug 17</div><div class="week-label">Aug 24</div><div class="week-label">Aug 31</div><div class="week-label">Sep 7</div><div class="week-label">Sep 14</div><div class="week-label">Sep 21</div><div class="week-label">Sep 28</div><div class="week-label">Oct 5</div><div class="week-label">Oct 12</div><div class="week-label">Oct 19</div><div class="week-label">Oct 26</div></div><div class="group-row"><div class="group-label">Kahala Extranet</div></div><div class="gantt-row" title="Franchisee Portal | Target start: Jul 6, 2026 | Target completion: Aug 28, 2026">
+  <div class="task-label">Franchisee Portal</div>
+  <div class="timeline-cell"><span class="bar" style="left:15.0000%;width:38.5714%"></span></div>
+</div><div class="gantt-row" title="Self-Service Franchisee tools (job applications, store info, etc.) | Target start: Jun 15, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Self-Service Franchisee tools (job applications, store info, etc.)</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:78.5714%"></span></div>
+</div><div class="gantt-row" title="KTEC/CreativeOnline Replacement (MediaValet?) | Target start: Jul 6, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">KTEC/CreativeOnline Replacement (MediaValet?)</div>
+  <div class="timeline-cell"><span class="bar" style="left:15.0000%;width:63.5714%"></span></div>
+</div><div class="gantt-row" title="SharePoint (SP) On-Prem =&gt; SP Online | Target start: Aug 3, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">SharePoint (SP) On-Prem =&gt; SP Online</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:43.5714%"></span></div>
+</div><div class="gantt-row" title="POS website POSHelpNOW.com | Target start: Aug 3, 2026 | Target completion: Aug 21, 2026">
+  <div class="task-label">POS website POSHelpNOW.com</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:13.5714%"></span></div>
+</div><div class="gantt-row" title="Manual Sales | Target start: Jun 15, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Manual Sales</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:78.5714%"></span></div>
+</div><div class="gantt-row" title="Customer Feedback Mgr/APIs | Target start: Aug 3, 2026 | Target completion: Oct 30, 2026">
+  <div class="task-label">Customer Feedback Mgr/APIs</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:63.5714%"></span></div>
+</div><div class="gantt-row" title="Marketing Portal | Target start: Aug 3, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Marketing Portal</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:43.5714%"></span></div>
+</div><div class="gantt-row" title="Readonly Long-term archive (DB02 sunset) | Target start: Sep 7, 2026 | Target completion: Oct 30, 2026">
+  <div class="task-label">Readonly Long-term archive (DB02 sunset)</div>
+  <div class="timeline-cell"><span class="bar" style="left:60.0000%;width:38.5714%"></span></div>
+</div><div class="gantt-row" title="Store Locator | Target start: Aug 3, 2026 | Target completion: Aug 21, 2026">
+  <div class="task-label">Store Locator</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:13.5714%"></span></div>
+</div><div class="gantt-row" title="Franchisee Reporting | Target start: Aug 3, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Franchisee Reporting</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:43.5714%"></span></div>
+</div><div class="gantt-row" title="Internal Reporting | Target start: Jun 15, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Internal Reporting</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:78.5714%"></span></div>
+</div><div class="gantt-row" title="AD Portal functions replacement | Target start: Sep 14, 2026 | Target completion: Oct 16, 2026">
+  <div class="task-label">AD Portal functions replacement</div>
+  <div class="timeline-cell"><span class="bar" style="left:65.0000%;width:23.5714%"></span></div>
+</div><div class="gantt-row" title="Vendor Portal functions replacement | Target start: Aug 3, 2026 | Target completion: Aug 21, 2026">
+  <div class="task-label">Vendor Portal functions replacement</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:13.5714%"></span></div>
+</div><div class="gantt-row" title="Automated Reports | Target start: Sep 7, 2026 | Target completion: Sep 25, 2026">
+  <div class="task-label">Automated Reports</div>
+  <div class="timeline-cell"><span class="bar" style="left:60.0000%;width:13.5714%"></span></div>
+</div><div class="gantt-row" title="Raw Sales (automated POS Sales) | Target start: Jun 15, 2026 | Target completion: Aug 28, 2026">
+  <div class="task-label">Raw Sales (automated POS Sales)</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:53.5714%"></span></div>
+</div><div class="gantt-row" title="Data Delivers (Focus extract) | Target start: Aug 10, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Data Delivers (Focus extract)</div>
+  <div class="timeline-cell"><span class="bar" style="left:40.0000%;width:38.5714%"></span></div>
+</div><div class="gantt-row" title="Data Delivers (NCR Silver) | Target start: Aug 10, 2026 | Target completion: Sep 4, 2026">
+  <div class="task-label">Data Delivers (NCR Silver)</div>
+  <div class="timeline-cell"><span class="bar" style="left:40.0000%;width:18.5714%"></span></div>
+</div><div class="gantt-row" title="Marketing Yext Extract | Target start: Sep 21, 2026 | Target completion: Oct 16, 2026">
+  <div class="task-label">Marketing Yext Extract</div>
+  <div class="timeline-cell"><span class="bar" style="left:70.0000%;width:18.5714%"></span></div>
+</div><div class="gantt-row" title="Store Notifications | Target start: Jun 15, 2026 | Target completion: Aug 28, 2026">
+  <div class="task-label">Store Notifications</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:53.5714%"></span></div>
+</div><div class="gantt-row" title="Distribution Center Updates | Target start: Jun 15, 2026 | Target completion: Jul 10, 2026">
+  <div class="task-label">Distribution Center Updates</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:18.5714%"></span></div>
+</div><div class="gantt-row" title="Coop Updates | Target start: Jun 15, 2026 | Target completion: Jul 24, 2026">
+  <div class="task-label">Coop Updates</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:28.5714%"></span></div>
+</div><div class="gantt-row" title="Franchisee review processes | Target start: Aug 24, 2026 | Target completion: Oct 2, 2026">
+  <div class="task-label">Franchisee review processes</div>
+  <div class="timeline-cell"><span class="bar" style="left:50.0000%;width:28.5714%"></span></div>
+</div><div class="gantt-row" title="POS team tracks POS Type in Raw Sales tool | Target start: Jun 15, 2026 | Target completion: Jul 17, 2026">
+  <div class="task-label">POS team tracks POS Type in Raw Sales tool</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:23.5714%"></span></div>
+</div><div class="gantt-row" title="POS Fees tracking | Target start: Jun 15, 2026 | Target completion: Jul 17, 2026">
+  <div class="task-label">POS Fees tracking</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:23.5714%"></span></div>
+</div><div class="group-row"><div class="group-label">Dynamics CRM</div></div><div class="gantt-row" title="Sales Reporting | Target start: Aug 3, 2026 | Target completion: Sep 4, 2026">
+  <div class="task-label">Sales Reporting</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:23.5714%"></span></div>
+</div><div class="gantt-row" title="Leadership Reporting | Target start: Aug 3, 2026 | Target completion: Oct 16, 2026">
+  <div class="task-label">Leadership Reporting</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:53.5714%"></span></div>
+</div><div class="gantt-row" title="Accounting/ Finance Reporting | Target start: Aug 3, 2026 | Target completion: Oct 16, 2026">
+  <div class="task-label">Accounting/ Finance Reporting</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:53.5714%"></span></div>
+</div><div class="gantt-row" title="Direct data connections | Target start: Aug 3, 2026 | Target completion: Sep 4, 2026">
+  <div class="task-label">Direct data connections</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:23.5714%"></span></div>
+</div><div class="gantt-row" title="Finance integration | Target start: Aug 3, 2026 | Target completion: Sep 4, 2026">
+  <div class="task-label">Finance integration</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:23.5714%"></span></div>
+</div><div class="gantt-row" title="Innovation team integration | Target start: Aug 3, 2026 | Target completion: Sep 25, 2026">
+  <div class="task-label">Innovation team integration</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:38.5714%"></span></div>
+</div><div class="gantt-row" title="FDD processes | Target start: Jun 15, 2026 | Target completion: Jun 26, 2026">
+  <div class="task-label">FDD processes</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:8.5714%"></span></div>
+</div><div class="gantt-row" title="Organization Hierarchy tracking (RLS) | Target start: Jun 15, 2026 | Target completion: Aug 7, 2026">
+  <div class="task-label">Organization Hierarchy tracking (RLS)</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:38.5714%"></span></div>
+</div><div class="group-row"><div class="group-label">Papa Murphy's Sales Reporting Application (SRA)</div></div><div class="gantt-row" title="Manual Sales Reporting | Target start: Aug 3, 2026 | Target completion: Aug 21, 2026">
+  <div class="task-label">Manual Sales Reporting</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:13.5714%"></span></div>
+</div><div class="gantt-row" title="SSRS Reports transition to Power BI | Target start: Jun 15, 2026 | Target completion: Jul 31, 2026">
+  <div class="task-label">SSRS Reports transition to Power BI</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:33.5714%"></span></div>
+</div><div class="gantt-row" title="Tableau dashboards migration to Power BI | Target start: Aug 3, 2026 | Target completion: Oct 16, 2026">
+  <div class="task-label">Tableau dashboards migration to Power BI</div>
+  <div class="timeline-cell"><span class="bar" style="left:35.0000%;width:53.5714%"></span></div>
+</div><div class="gantt-row" title="Weekly Sales Aggregation | Target start: Jul 27, 2026 | Target completion: Sep 11, 2026">
+  <div class="task-label">Weekly Sales Aggregation</div>
+  <div class="timeline-cell"><span class="bar" style="left:30.0000%;width:33.5714%"></span></div>
+</div><div class="gantt-row" title="Organization Hierarchy tracking | Target start: Jun 15, 2026 | Target completion: Aug 21, 2026">
+  <div class="task-label">Organization Hierarchy tracking</div>
+  <div class="timeline-cell"><span class="bar" style="left:0.0000%;width:48.5714%"></span></div>
+</div></div></div><div class="legend"><span class="swatch"></span>Target start-to-completion window. Mouse over a row to view exact target dates.</div></div></body></html>
