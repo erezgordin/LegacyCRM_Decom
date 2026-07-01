@@ -390,3 +390,33 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-06-24,User Interfaces,POS website POSHelpNOW.com,pos-website,40,2026-08-21,2026-08-03,2026-08-21,3,1,1.5,2.5
 2026-06-24,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,25,2026-10-02,2026-06-15,2026-10-02,3,3,2.5,5.5
 2026-06-24,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,20,2026-10-02,2026-08-03,2026-10-02,2,1,2,3
+2026-07-01,CRM Processes,Call Logs,call-logs,100,,,,6,1,1,2
+2026-07-01,CRM Processes,Coop Updates,coop-updates,40,2026-07-24,2026-06-15,2026-07-24,3,2,2,4
+2026-07-01,CRM Processes,Credit/Gift cards verification,credit-gift-cards-verification,100,,,,6,1,1.5,2.5
+2026-07-01,CRM Processes,Distribution Center Updates,distribution-center-updates,40,2026-07-10,2026-06-15,2026-07-10,3,1,1.5,2.5
+2026-07-01,CRM Processes,FDD processes,fdd-processes,100,,,,6,1,1,2
+2026-07-01,CRM Processes,Franchisee review processes,franchisee-review-processes,50,2026-10-02,2026-08-24,2026-10-02,3,2.5,2.5,5
+2026-07-01,CRM Processes,POS Fees tracking,pos-fees-tracking,45,2026-07-17,2026-06-15,2026-07-17,3,1,2,3
+2026-07-01,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,60,2026-07-17,2026-06-15,2026-07-17,3,1,2,3
+2026-07-01,CRM Processes,Store Notifications,store-notifications,55,2026-08-28,2026-06-15,2026-08-28,3,2,2,4
+2026-07-01,CRM Processes,Training Status Updates,training-status-updates,100,,,,6,1,1.5,2.5
+2026-07-01,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,20,2026-10-30,2026-08-03,2026-10-30,3,2,2.5,4.5
+2026-07-01,Custom Apps,Manual Sales,manual-sales,55,2026-10-02,2026-06-15,2026-10-02,5,3,3,6
+2026-07-01,Custom Apps,Marketing Portal,marketing-portal,25,2026-10-02,2026-08-03,2026-10-02,3,1,2.5,3.5
+2026-07-01,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,30,2026-10-30,2026-09-07,2026-10-30,3,2.5,2,4.5
+2026-07-01,Custom Apps,Store Locator,store-locator,50,2026-08-21,2026-08-03,2026-08-21,3,1,1.5,2.5
+2026-07-01,Data Integration,Data Delivers (Focus extract),data-delivers-focus,20,2026-10-02,2026-08-10,2026-10-02,3,2,1.5,3.5
+2026-07-01,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,40,2026-09-04,2026-08-10,2026-09-04,3,1,1.5,2.5
+2026-07-01,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,95,,,,5,3,1,4
+2026-07-01,Data Integration,Marketing Yext Extract,yext-extract,20,2026-10-16,2026-09-21,2026-10-16,3,1,2,3
+2026-07-01,Data Integration,Raw Sales (automated POS Sales),raw-sales,60,2026-08-28,2026-06-15,2026-08-28,3,2.5,2.5,5
+2026-07-01,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,20,2026-10-16,2026-09-14,2026-10-16,2,2,2,4
+2026-07-01,Reporting,Automated Reports,marketing-automated-reports,50,2026-09-25,2026-09-07,2026-09-25,3,1,1.5,2.5
+2026-07-01,Reporting,Franchisee Reporting,franchisee-reporting,35,2026-10-02,2026-08-03,2026-10-02,3,3,3,6
+2026-07-01,Reporting,Internal Reporting,internal-reporting,35,2026-10-02,2026-06-15,2026-10-02,3,3,3,6
+2026-07-01,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,50,2026-08-21,2026-08-03,2026-08-21,3,1,1,2
+2026-07-01,User Interfaces,Franchisee Portal,franchisee-portal,50,2026-08-28,2026-07-06,2026-08-28,3,2,3,5
+2026-07-01,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,30,2026-10-02,2026-07-06,2026-10-02,3,1.5,3,4.5
+2026-07-01,User Interfaces,POS website POSHelpNOW.com,pos-website,50,2026-08-21,2026-08-03,2026-08-21,3,1,1.5,2.5
+2026-07-01,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,25,2026-10-02,2026-06-15,2026-10-02,3,3,2.5,5.5
+2026-07-01,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,20,2026-10-02,2026-08-03,2026-10-02,2,1,2,3
