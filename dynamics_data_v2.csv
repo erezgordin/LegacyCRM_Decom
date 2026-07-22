@@ -98,3 +98,12 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-07-15,Data Integration,Direct data connections,direct-data-connections,70,2026-09-04,2026-08-03,2026-09-04,5,1.5,1.5,3
 2026-07-15,Data Integration,Finance integration,finance-integration,40,2026-09-04,2026-08-03,2026-09-04,3,2,2.5,4.5
 2026-07-15,Data Integration,Innovation team integration,innovation-team-integration,40,2026-09-25,2026-08-03,2026-09-25,3,2,2.5,4.5
+2026-07-22,Access & Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,40,2026-10-16,2026-08-03,2026-10-16,3,2.5,2.5,5
+2026-07-22,Access & Reporting,Leadership Reporting,leadership-reporting,40,2026-10-16,2026-08-03,2026-10-16,3,3,3,6
+2026-07-22,Access & Reporting,Sales Reporting,sales-reporting,40,2026-09-04,2026-08-03,2026-09-04,3,3,3,6
+2026-07-22,CRM Processes,FDD processes,fdd-processes,99,2026-07-15,2026-06-15,2026-07-17,5,3,2.5,5.5
+2026-07-22,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,70,2026-08-07,2026-06-15,2026-08-07,3,2,3,5
+2026-07-22,Data Integration,Attachments,attachments,95,,,,5,3,1,4
+2026-07-22,Data Integration,Direct data connections,direct-data-connections,75,2026-09-04,2026-08-03,2026-09-04,5,1.5,1.5,3
+2026-07-22,Data Integration,Finance integration,finance-integration,45,2026-09-04,2026-08-03,2026-09-04,3,2,2.5,4.5
+2026-07-22,Data Integration,Innovation team integration,innovation-team-integration,45,2026-09-25,2026-08-03,2026-09-25,3,2,2.5,4.5
