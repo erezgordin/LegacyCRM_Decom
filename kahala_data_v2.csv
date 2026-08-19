@@ -612,21 +612,21 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-08-19,CRM Processes,Training Status Updates,training-status-updates,100,,,,6,1,1.5,2.5
 2026-08-19,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,75,2026-10-30,2026-08-03,2026-10-30,3,2,2.5,4.5
 2026-08-19,Custom Apps,Manual Sales,manual-sales,55,2026-10-31,2026-06-15,2026-10-31,5,3,3,6
-2026-08-19,Custom Apps,Marketing Portal,marketing-portal,25,2026-10-02,2026-08-03,2026-10-02,3,1,2.5,3.5
-2026-08-19,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,30,2026-10-30,2026-09-07,2026-10-30,3,2.5,2,4.5
-2026-08-19,Custom Apps,Store Locator,store-locator,50,2026-08-21,2026-08-03,2026-08-21,3,1,1.5,2.5
+2026-08-19,Custom Apps,Marketing Portal,marketing-portal,25,2026-11-14,2026-08-03,2026-10-02,3,1,2.5,3.5
+2026-08-19,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,30,2026-10-31,2026-09-07,2026-11-14,3,2.5,2,4.5
+2026-08-19,Custom Apps,Store Locator,store-locator,50,2026-10-31,2026-08-03,2026-10-31,3,1,1.5,2.5
 2026-08-19,Data Integration,Data Delivers (Focus extract),data-delivers-focus,30,2026-10-02,2026-08-10,2026-10-02,3,2,1.5,3.5
-2026-08-19,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,55,2026-09-04,2026-08-10,2026-09-04,3,1,1.5,2.5
+2026-08-19,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,55,2026-09-30,2026-08-10,2026-09-30,3,1,1.5,2.5
 2026-08-19,Data Integration,Dynamics CRM Data feed,dynamics-crm-data-feed,95,,,,5,3,1,4
 2026-08-19,Data Integration,Marketing Yext Extract,yext-extract,20,2026-10-16,2026-09-21,2026-10-16,3,1,2,3
 2026-08-19,Data Integration,Raw Sales (automated POS Sales),raw-sales,65,2026-09-30,2026-06-15,2026-09-30,3,2.5,2.5,5
 2026-08-19,Reporting,AD Portal functions replacement,ad-portal-functions-replacement,20,2026-10-16,2026-09-14,2026-10-16,2,2,2,4
-2026-08-19,Reporting,Automated Reports,marketing-automated-reports,50,2026-09-25,2026-09-07,2026-09-25,3,1,1.5,2.5
-2026-08-19,Reporting,Franchisee Reporting,franchisee-reporting,40,2026-10-02,2026-08-03,2026-10-02,3,3,3,6
-2026-08-19,Reporting,Internal Reporting,internal-reporting,40,2026-10-02,2026-06-15,2026-10-02,3,3,3,6
-2026-08-19,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,50,2026-08-21,2026-08-03,2026-08-21,3,1,1,2
-2026-08-19,User Interfaces,Franchisee Portal,franchisee-portal,60,2026-08-28,2026-07-06,2026-08-28,3,2,3,5
-2026-08-19,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,40,2026-10-02,2026-07-06,2026-10-02,3,1.5,3,4.5
-2026-08-19,User Interfaces,POS website POSHelpNOW.com,pos-website,50,2026-08-21,2026-08-03,2026-08-21,3,1,1.5,2.5
+2026-08-19,Reporting,Automated Reports,marketing-automated-reports,50,2026-10-31,2026-09-07,2026-10-31,3,1,1.5,2.5
+2026-08-19,Reporting,Franchisee Reporting,franchisee-reporting,40,2026-10-15,2026-08-03,2026-10-15,3,3,3,6
+2026-08-19,Reporting,Internal Reporting,internal-reporting,40,2026-10-15,2026-06-15,2026-10-15,3,3,3,6
+2026-08-19,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,50,2026-11-14,2026-08-03,2026-11-14,3,1,1,2
+2026-08-19,User Interfaces,Franchisee Portal,franchisee-portal,60,2026-10-15,2026-07-06,2026-10-15,3,2,3,5
+2026-08-19,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,40,2026-10-15,2026-07-06,2026-10-15,3,1.5,3,4.5
+2026-08-19,User Interfaces,POS website POSHelpNOW.com,pos-website,50,2026-10-15,2026-08-03,2026-10-15,3,1,1.5,2.5
 2026-08-19,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,30,2026-10-02,2026-06-15,2026-10-02,3,3,2.5,5.5
 2026-08-19,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,25,2026-10-02,2026-08-03,2026-10-02,2,1,2,3
