@@ -1,81 +1,91 @@
 date,group,title,id,percent,target_date,target_start_date,target_completion_date,phase,effort,impact,priority_total
-2026-05-06,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,40,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-05-06,Custom Apps,Manual Sales Reporting,manual-sales-reporting,70,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-05-06,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-05-06,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,0,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-05-06,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,0,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-05-13,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-05-13,Custom Apps,Manual Sales Reporting,manual-sales-reporting,80,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-05-13,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-05-13,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,0,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-05-13,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,0,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-05-20,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-05-20,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-05-20,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-05-20,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,25,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-05-20,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-05-27,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-05-27,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-05-27,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-05-27,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,30,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-05-27,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-06-03,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-06-03,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-06-03,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-06-03,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,30,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-06-03,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-06-10,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-06-10,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-06-10,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-06-10,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,40,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-06-10,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-06-17,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-06-17,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-06-17,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
-2026-06-17,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,50,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-06-17,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-06-24,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,50,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-06-24,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-06-24,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-06-24,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,55,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-06-24,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,25,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-07-01,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,55,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-07-01,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-07-01,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-07-01,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,60,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-07-01,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,25,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-07-08,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,55,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-07-08,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-07-08,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-07-08,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,70,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-07-08,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,35,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-07-15,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,55,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-07-15,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-07-15,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-07-15,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-07-15,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,60,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-07-22,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,60,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-07-22,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
-2026-07-22,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-07-22,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026-07-31,2026-06-15,2026-07-31,3,2,2,4
-2026-07-22,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,70,2026-10-16,2026-08-03,2026-10-16,3,2,2,4
-2026-07-29,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,70,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-07-29,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-28,5,2,1.5,3.5
-2026-07-29,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-07-29,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026-07-31,2026-06-15,2026-09-30,3,2,2,4
-2026-07-29,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026-10-16,2026-08-03,2026-10-16,4,2,2,4
-2026-08-05,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,70,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
-2026-08-05,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-08-21,2026-08-03,2026-08-28,5,2,1.5,3.5
-2026-08-05,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-08-05,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026-07-31,2026-06-15,2026-09-30,3,2,2,4
-2026-08-05,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026-10-16,2026-08-03,2026-10-16,4,2,2,4
-2026-08-12,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,70,2026-09-15,2026-06-15,2026-09-15,3,2,2.5,4.5
-2026-08-12,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-09-15,2026-08-03,2026-09-15,5,2,1.5,3.5
-2026-08-12,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026-09-11,2026-07-27,2026-09-11,3,2,2,4
-2026-08-12,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026-07-31,2026-06-15,2026-09-30,3,2,2,4
-2026-08-12,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026-10-16,2026-08-03,2026-10-16,4,2,2,4
-2026-08-19,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,75,2026-09-30,2026-06-15,2026-09-30,3,2,2.5,4.5
-2026-08-19,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026-09-30,2026-08-03,2026-09-30,5,2,1.5,3.5
-2026-08-19,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,65,2026-09-30,2026-07-27,2026-09-11,3,2,2,4
-2026-08-19,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026-10-31,2026-06-15,2026-10-31,3,2,2,4
-2026-08-19,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026-11-01,2026-08-03,2026-11-01,4,2,2,4
+2026/05/06,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,40,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/05/06,Custom Apps,Manual Sales Reporting,manual-sales-reporting,70,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/05/06,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/05/06,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,0,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/05/06,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,0,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/05/13,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/05/13,Custom Apps,Manual Sales Reporting,manual-sales-reporting,80,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/05/13,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/05/13,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,0,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/05/13,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,0,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/05/20,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/05/20,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/05/20,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/05/20,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,25,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/05/20,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/05/27,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/05/27,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/05/27,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/05/27,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,30,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/05/27,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/06/03,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/06/03,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/06/03,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/06/03,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,30,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/06/03,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/06/10,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/06/10,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/06/10,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/06/10,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,40,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/06/10,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/06/17,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,45,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/06/17,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/06/17,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026/09/11,2026/07/27,2026/09/11,2,2,2,4
+2026/06/17,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,50,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/06/17,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,20,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/06/24,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,50,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/06/24,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/06/24,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/06/24,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,55,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/06/24,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,25,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/07/01,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,55,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/07/01,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/07/01,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/07/01,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,60,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/07/01,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,25,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/07/08,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,55,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/07/08,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/07/08,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/07/08,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,70,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/07/08,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,35,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/07/15,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,55,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/07/15,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/07/15,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/07/15,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/07/15,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,60,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/07/22,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,60,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/07/22,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/21,5,2,1.5,3.5
+2026/07/22,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/07/22,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026/07/31,2026/06/15,2026/07/31,3,2,2,4
+2026/07/22,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,70,2026/10/16,2026/08/03,2026/10/16,3,2,2,4
+2026/07/29,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,70,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/07/29,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/28,5,2,1.5,3.5
+2026/07/29,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/07/29,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026/07/31,2026/06/15,2026/09/30,3,2,2,4
+2026/07/29,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026/10/16,2026/08/03,2026/10/16,4,2,2,4
+2026/08/05,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,70,2026/08/21,2026/06/15,2026/08/21,3,2,2.5,4.5
+2026/08/05,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/08/21,2026/08/03,2026/08/28,5,2,1.5,3.5
+2026/08/05,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/08/05,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026/07/31,2026/06/15,2026/09/30,3,2,2,4
+2026/08/05,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026/10/16,2026/08/03,2026/10/16,4,2,2,4
+2026/08/12,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,70,2026/09/15,2026/06/15,2026/09/15,3,2,2.5,4.5
+2026/08/12,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/09/15,2026/08/03,2026/09/15,5,2,1.5,3.5
+2026/08/12,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,60,2026/09/11,2026/07/27,2026/09/11,3,2,2,4
+2026/08/12,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026/07/31,2026/06/15,2026/09/30,3,2,2,4
+2026/08/12,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026/10/16,2026/08/03,2026/10/16,4,2,2,4
+2026/08/19,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,75,2026/09/30,2026/06/15,2026/09/30,3,2,2.5,4.5
+2026/08/19,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/09/30,2026/08/03,2026/09/30,5,2,1.5,3.5
+2026/08/19,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,65,2026/09/30,2026/07/27,2026/09/11,3,2,2,4
+2026/08/19,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,75,2026/10/31,2026/06/15,2026/10/31,3,2,2,4
+2026/08/19,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,75,2026/11/01,2026/08/03,2026/11/01,4,2,2,4
+2026/08/26,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,75,2026/09/30,2026/06/15,2026/09/30,3,2,2.5,4.5
+2026/08/26,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/09/30,2026/08/03,2026/09/30,5,2,1.5,3.5
+2026/08/26,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,65,2026/09/30,2026/07/27,2026/09/11,3,2,2,4
+2026/08/26,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,80,2026/10/31,2026/06/15,2026/10/31,3,2,2,4
+2026/08/26,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,80,2026/11/01,2026/08/03,2026/11/01,4,2,2,4
+2026/09/02,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,75,2026/09/30,2026/06/15,2026/09/30,3,2,2.5,4.5
+2026/09/02,Custom Apps,Manual Sales Reporting,manual-sales-reporting,90,2026/09/30,2026/08/03,2026/09/30,5,2,1.5,3.5
+2026/09/02,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,65,2026/09/30,2026/07/27,2026/09/11,3,2,2,4
+2026/09/02,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,80,2026/10/31,2026/06/15,2026/10/31,3,2,2,4
+2026/09/02,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,80,2026/11/01,2026/08/03,2026/11/01,4,2,2,4
