@@ -792,8 +792,8 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-09-30,CRM Processes,Training Status Updates,training-status-updates,100,,,,6,1,1.5,2.5
 2026-09-30,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,80,2026-10-30,2026-08-03,2026-10-30,5,2,2.5,4.5
 2026-09-30,Custom Apps,Manual Sales,manual-sales,55,2026-10-31,2026-06-15,2026-10-31,5,3,3,6
-2026-09-30,Custom Apps,Marketing Portal,marketing-portal,30,2026-11-14,2026-08-03,2026-10-02,3,1,2.5,3.5
-2026-09-30,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,30,2026-10-31,2026-09-07,2026-11-14,3,2.5,2,4.5
+2026-09-30,Custom Apps,Marketing Portal,marketing-portal,30,2026-11-14,2026-08-03,2026-11-14,3,1,2.5,3.5
+2026-09-30,Custom Apps,Readonly Long-term archive (DB02 sunset),readonly-archive,30,2026-11-14,2026-09-07,2026-11-14,3,2.5,2,4.5
 2026-09-30,Custom Apps,Store Locator,store-locator,50,2026-10-31,2026-08-03,2026-10-31,3,1,1.5,2.5
 2026-09-30,Data Integration,Data Delivers (Focus extract),data-delivers-focus,50,2026-11-15,2026-08-10,2026-11-15,3,2,1.5,3.5
 2026-09-30,Data Integration,Data Delivers (NCR Silver),data-delivers-ncr-silver,80,2026-10-30,2026-08-10,2026-10-30,3,1,1.5,2.5
