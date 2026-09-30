@@ -787,7 +787,7 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-09-30,CRM Processes,FDD processes,fdd-processes,100,,,,6,1,1,2
 2026-09-30,CRM Processes,Franchisee review processes,franchisee-review-processes,50,2026-10-02,2026-08-24,2026-10-02,3,2.5,2.5,5
 2026-09-30,CRM Processes,POS Fees tracking,pos-fees-tracking,90,2026-10-07,2026-06-15,2026-10-07,5,1,2,3
-2026-09-30,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,80,2026-10-15,2026-06-15,2026-10-15,5,1,2,3
+2026-09-30,CRM Processes,POS team tracks POS Type in Raw Sales tool,pos-team-tracks-pos-type,80,2026-10-13,2026-06-15,2026-10-15,5,1,2,3
 2026-09-30,CRM Processes,Store Notifications,store-notifications,65,2026-10-30,2026-06-15,2026-10-30,4,2,2,4
 2026-09-30,CRM Processes,Training Status Updates,training-status-updates,100,,,,6,1,1.5,2.5
 2026-09-30,Custom Apps,Customer Feedback Mgr/APIs,customer-feedback-mgr-apis,80,2026-10-30,2026-08-03,2026-10-30,5,2,2.5,4.5
