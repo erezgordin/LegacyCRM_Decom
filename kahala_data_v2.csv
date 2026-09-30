@@ -805,8 +805,8 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-09-30,Reporting,Franchisee Reporting,franchisee-reporting,70,2026-10-15,2026-08-03,2026-10-15,3,3,3,6
 2026-09-30,Reporting,Internal Reporting,internal-reporting,70,2026-10-15,2026-06-15,2026-10-15,3,3,3,6
 2026-09-30,Reporting,Vendor Portal functions replacement,vendor-portal-functions-replacement,50,2026-11-14,2026-08-03,2026-11-14,3,1,1,2
-2026-09-30,User Interfaces,Franchisee Portal,franchisee-portal,70,2026-10-15,2026-07-06,2026-10-15,3,2,3,5
-2026-09-30,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,60,2026-10-15,2026-07-06,2026-10-15,3,1.5,3,4.5
+2026-09-30,User Interfaces,Franchisee Portal,franchisee-portal,75,2026-10-30,2026-07-06,2026-10-30,3,2,3,5
+2026-09-30,User Interfaces,KTEC/CreativeOnline Replacement (MediaValet?),ktec-creativeonline-replacement,75,2026-10-30,2026-07-06,2026-10-30,3,1.5,3,4.5
 2026-09-30,User Interfaces,POS website POSHelpNOW.com,pos-website,60,2026-10-15,2026-08-03,2026-10-15,3,1,1.5,2.5
 2026-09-30,User Interfaces,"Self-Service Franchisee tools (job applications, store info, etc.)",self-service-franchisee-tools,35,2026-10-31,2026-06-15,2026-10-31,3,3,2.5,5.5
 2026-09-30,User Interfaces,SharePoint (SP) On-Prem => SP Online,sharepoint-onprem-online,50,2026-10-30,2026-08-03,2026-10-30,3,1,2,3
