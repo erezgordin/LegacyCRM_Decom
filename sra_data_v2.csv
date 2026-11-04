@@ -1,4 +1,4 @@
-﻿date,group,title,id,percent,target_date,target_start_date,target_completion_date,phase,effort,impact,priority_total
+date,group,title,id,percent,target_date,target_start_date,target_completion_date,phase,effort,impact,priority_total
 2026-05-06,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,40,2026-08-21,2026-06-15,2026-08-21,3,2,2.5,4.5
 2026-05-06,Custom Apps,Manual Sales Reporting,manual-sales-reporting,70,2026-08-21,2026-08-03,2026-08-21,5,2,1.5,3.5
 2026-05-06,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,10,2026-09-11,2026-07-27,2026-09-11,2,2,2,4
@@ -129,3 +129,8 @@
 2026-10-28,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,70,2026-11-15,2026-07-27,2026-11-15,3,2,2,4
 2026-10-28,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,85,2026-10-31,2026-06-15,2026-10-31,3,2,2,4
 2026-10-28,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,85,2026-11-01,2026-08-03,2026-11-01,4,2,2,4
+2026-11-04,CRM Processes,Organization Hierarchy tracking,organization-hierarchy-tracking,85,2026-11-15,2026-06-15,2026-11-15,3,2,2.5,4.5
+2026-11-04,Custom Apps,Manual Sales Reporting,manual-sales-reporting,100,2026-09-30,2026-08-03,2026-09-30,6,2,1.5,3.5
+2026-11-04,Data Integration,Weekly Sales Aggregation,weekly-sales-aggregation,75,2026-11-15,2026-07-27,2026-11-15,3,2,2,4
+2026-11-04,Reporting,SSRS Reports transition to Power BI,ssrs-reports-transition-to-power-bi,90,2026-11-16,2026-06-15,2026-11-16,3,2,2,4
+2026-11-04,Reporting,Tableau dashboards migration to Power BI,tableau-dashboards-migration-to-power-bi,90,2026-11-16,2026-08-03,2026-11-16,4,2,2,4
