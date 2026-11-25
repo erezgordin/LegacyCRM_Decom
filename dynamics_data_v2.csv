@@ -251,3 +251,21 @@ date,group,title,id,percent,target_date,target_start_date,target_completion_date
 2026-11-11,Data Integration,Direct data connections,direct-data-connections,100,2026-10-01,2026-08-03,2026-10-01,6,1.5,1.5,3
 2026-11-11,Data Integration,Finance integration,finance-integration,100,2026-10-01,2026-08-03,2026-10-01,6,2,2.5,4.5
 2026-11-11,Data Integration,Innovation team integration,innovation-team-integration,80,2026-11-30,2026-08-03,2026-11-30,3,2,2.5,4.5
+2026-11-18,Access & Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,95,2026-12-04,2026-08-03,2026-12-04,5,2.5,2.5,5
+2026-11-18,Access & Reporting,Leadership Reporting,leadership-reporting,95,2026-12-04,2026-08-03,2026-12-04,4,3,3,6
+2026-11-18,Access & Reporting,Sales Reporting,sales-reporting,95,2026-12-04,2026-08-03,2026-12-04,5,3,3,6
+2026-11-18,CRM Processes,FDD processes,fdd-processes,100,2026-07-15,2026-06-15,2026-07-17,6,3,2.5,5.5
+2026-11-18,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,90,2026-11-30,2026-06-15,2026-11-30,5,2,3,5
+2026-11-18,Data Integration,Attachments,attachments,100,2026-10-31,,2026-10-31,6,3,1,4
+2026-11-18,Data Integration,Direct data connections,direct-data-connections,100,2026-10-01,2026-08-03,2026-10-01,6,1.5,1.5,3
+2026-11-18,Data Integration,Finance integration,finance-integration,100,2026-10-01,2026-08-03,2026-10-01,6,2,2.5,4.5
+2026-11-18,Data Integration,Innovation team integration,innovation-team-integration,85,2026-11-30,2026-08-03,2026-11-30,4,2,2.5,4.5
+2026-11-25,Access & Reporting,Accounting/ Finance Reporting,accounting-finance-reporting,95,2026-12-04,2026-08-03,2026-12-04,5,2.5,2.5,5
+2026-11-25,Access & Reporting,Leadership Reporting,leadership-reporting,95,2026-12-04,2026-08-03,2026-12-04,4,3,3,6
+2026-11-25,Access & Reporting,Sales Reporting,sales-reporting,95,2026-12-04,2026-08-03,2026-12-04,5,3,3,6
+2026-11-25,CRM Processes,FDD processes,fdd-processes,100,2026-07-15,2026-06-15,2026-07-17,6,3,2.5,5.5
+2026-11-25,CRM Processes,Organization Hierarchy tracking (RLS),organization-hierarchy-tracking-rls,90,2026-11-30,2026-06-15,2026-11-30,5,2,3,5
+2026-11-25,Data Integration,Attachments,attachments,100,2026-10-31,,2026-10-31,6,3,1,4
+2026-11-25,Data Integration,Direct data connections,direct-data-connections,100,2026-10-01,2026-08-03,2026-10-01,6,1.5,1.5,3
+2026-11-25,Data Integration,Finance integration,finance-integration,100,2026-10-01,2026-08-03,2026-10-01,6,2,2.5,4.5
+2026-11-25,Data Integration,Innovation team integration,innovation-team-integration,90,2026-11-30,2026-08-03,2026-11-30,5,2,2.5,4.5
